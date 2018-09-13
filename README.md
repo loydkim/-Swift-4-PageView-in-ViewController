@@ -10,7 +10,7 @@ Develop environment.
 
 You can watch how to make it in my youtube channel and blog !
 
-- Youtube link : 
-- Blog post link : 
+- Youtube link : https://youtu.be/u8PFHMEkSAw
+- Blog post link : http://loydlab.blogspot.com/2018/09/swift-4-pageview-in-viewcontroller.html
 
 Thank you :)
